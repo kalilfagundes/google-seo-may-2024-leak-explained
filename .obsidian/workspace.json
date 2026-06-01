@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "5eb4ba53bb57608d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2ccc023a1a1d8cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "257026e5f3d06e66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad4bb22bd1eaac22",
+    "type": "split",
+    "children": [
+      {
+        "id": "96f488c8ef409624",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4039b8088a2a5083",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "fe58398f52d177f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "fdb8fc6e68f094d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f7408fa2ef07850f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b915eae0481bd59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f67c848a8b07ec18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para README"
+            }
+          },
+          {
+            "id": "017c5c2c93b7585d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para README"
+            }
+          },
+          {
+            "id": "c9e2bb9bb932342e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "25237c110dab9a7b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "b90690193fd1c91a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "257026e5f3d06e66",
+  "lastOpenFiles": [
+    "000 - Index.md",
+    "README.md",
+    "Signals/Voice Search - Assistant and Featured Snippets.md",
+    "Signals/Structured Data - Schema.md",
+    "Signals/Structured Data - Meta Tags.md",
+    "Signals/Speed - HTTPS SSL.md",
+    "Signals/Speed - Core Web Vitals.md",
+    "Signals/NLP - Semantics and Intent.md",
+    "Signals/Links - Quality.md",
+    "Signals/Links - PageRank.md",
+    "Signals/Links - Anchor Text.md",
+    "Signals/Experience - Mobile and Interstitials.md",
+    "Signals/Entity - Knowledge Graph.md",
+    "Signals/Entity - Entity Recognition.md",
+    "Signals/Engagement - Page Behavior.md",
+    "Signals/Engagement - Navboost and Clicks.md",
+    "Signals/Content - Word Count and Structure.md",
+    "Signals/Content - Title Matching.md",
+    "Signals/Content - Freshness.md",
+    "Signals/Content - EEAT.md",
+    "Signals/Chrome - Visit Signals.md",
+    "Signals/Authority - Spam Scores.md",
+    "Signals/Authority - Site Authority.md",
+    "Signals/Authority - Document Quality.md",
+    "Meta/Glossary.md",
+    "Meta/Confidence Methodology.md"
+  ]
+}
