@@ -1,6 +1,8 @@
 # Google SEO — May 2024 Leak Explained
 
 > **An Obsidian knowledge vault breaking down every confirmed ranking signal from the Google Content Warehouse API leak.**
+>
+> Made for https://medium.com/@kalilfagundes.w/everything-you-need-to-know-about-seo-metrics-explained-simply-kind-of-01edd45ddbd9
 
 ---
 
