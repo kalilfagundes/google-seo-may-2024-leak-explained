@@ -3,6 +3,7 @@
 > **An Obsidian knowledge vault breaking down every confirmed ranking signal from the Google Content Warehouse API leak.**
 >
 > ENGLISH: https://medium.com/@kalilfagundes.w/everything-you-need-to-know-about-seo-metrics-explained-simply-kind-of-01edd45ddbd9
+> 
 > PORTUGUESE: https://medium.com/@kalilfagundes.w/de-dev-a-copywriter-tudo-que-voc%C3%AA-precisa-saber-sobre-seo-5ad805e4fc6d
 
 ---
